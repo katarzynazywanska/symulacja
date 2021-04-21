@@ -1,0 +1,8 @@
+﻿  Network.cpp
+  Process.cpp
+  main.cpp
+  Simulation.cpp
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\projekt_symulacja_cyfrowa\Simulation.cpp(16,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  User.cpp
+  Generowanie kodu...
+  projekt_symulacja_cyfrowa.vcxproj -> C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\projekt_symulacja_cyfrowa\Debug\projekt_symulacja_cyfrowa.exe
