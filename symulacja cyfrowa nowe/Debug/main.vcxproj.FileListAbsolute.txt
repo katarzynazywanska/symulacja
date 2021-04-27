@@ -1,0 +1,3 @@
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\nowy projekt sc\main\Debug\symulacja_cyfrowa.exe
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\nowy projekt sc\symulacja cyfrowa\Debug\symulacja_cyfrowa.exe
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\zad 2\symulacja cyfrowa\Debug\symulacja_cyfrowa.exe

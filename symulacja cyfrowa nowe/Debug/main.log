@@ -1,0 +1,12 @@
+﻿  BaseStation.cpp
+  Network.cpp
+  Process.cpp
+  ResourceBlock.cpp
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\zad 2\symulacja cyfrowa\ResourceBlock.cpp(11,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Simulator.cpp
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\zad 2\symulacja cyfrowa\Simulator.cpp(45,33): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  User.cpp
+  main.cpp
+C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\zad 2\symulacja cyfrowa\main.cpp(8,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  main.vcxproj -> C:\Users\Uzytkownik\Desktop\6 sem\symulacja cyfrowa\lab\zad 2\symulacja cyfrowa\Debug\symulacja_cyfrowa.exe
